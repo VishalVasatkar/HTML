@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!vishal's website html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             margin: 0;
-            padding: 20px;
+            padding: p50x;
         }
         h1 {
             color: #333;
