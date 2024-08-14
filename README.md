@@ -21,7 +21,7 @@
 </head>
 <body>
     <h1>Welcome to My Simple HTML Page</h1>
-    <p>This is a paragraph of text in the body of the page. You can add more content here!</p>
+    <p>This is a demo site which is created for only enjoyment purpose </p>
     <a href="#">This is a link</a>
 </body>
 </html>
